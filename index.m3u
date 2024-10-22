@@ -106,6 +106,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://opplextv.cyou:8080/live/4545/4545/206054.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS", DISH TV|POGO
+http://217.20.112.199/pogo/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="KIDS", GUBBARE
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="KIDS", DISCOVERY KIDS
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS", HUNGAMA
+http://xtv.ooo:8080/live/927382370/837382809/150480.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.abp.in/images/ABP-Ananda-1.png",ABP ANANDA
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 

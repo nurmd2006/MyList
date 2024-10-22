@@ -33,7 +33,8 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqy3MXK3PQiGPbQKPKnm3HhmbGytYxU_54-bJ7w2Lc_hPANez-Muob4ZbP9kRabUhQVEZhA8fnjaH5ZHCKT7bO4S2rbqCd12W9nkQJVDGaj7ZmUJe84WBunDv2Azon8URVbCbQavTvjPVVb63JboyFUS6CVjK-xXDFRQjKrRETHBi-UGEsRnlDDSkuTA/s216/afa6535a-6819-46b8-bf53-e6ab2416fb47.webp" group-title="Sports",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
-
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png" group-title="Hindi",DD National
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://files.catbox.moe/xctvo9.png",BANGLA MOVIES HD
 http://starshare.live:8080/live/Leroy123/Leroy123/136495.m3u8
 

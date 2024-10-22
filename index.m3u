@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn6.aptoide.com/imgs/d/b/e/dbe3b48f1cae5af4710e96377580ab1f_icon.png",PTV Sports 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://cdn6.aptoide.com/imgs/d/b/e/dbe3b48f1cae5af4710e96377580ab1f_icon.png",Ary Sports 
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/rQmTNKf/20240907-003057.png",SANGSAD TV
@@ -84,6 +84,25 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png",BANGLA PLUS
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC", SANGEET BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nmqxm7q/20240812-184149.png" group-title="MUSIC", DOOM MUSIC BANGLA
+http://xtv.ooo:8080/live/98267/02727/245921.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6Czgpt/20240803-104352.png" group-title="MUSIC", MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKN9zYR/20240803-105155.png" group-title="MUSIC", 9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="MUSIC", 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2LXzD/20240803-105126.png" group-title="MUSIC", 9X JALWA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGFpm7c/20240803-104435.png" group-title="MUSIC", AB MASTI III
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png" group-title="MUSIC", MTV
+http://opplextv.cyou:8080/live/4545/4545/206054.m3u8
+
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://www.abp.in/images/ABP-Ananda-1.png",ABP ANANDA
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8

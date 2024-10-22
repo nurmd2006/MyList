@@ -3,7 +3,7 @@
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3p9HPXP_bNJMfPGfED_Ba3ovjtCy_9MazCyycegeJZKMnD6kYhM0t3LUMw7vnzmK38hB9MqTPqz6y6A-zCfEBzBvU7sY9HTHH8BVb_1NBNBraJDtvDBCk-V7XBlSKcfhypl2r53JQmQ/s16000-rw/T-Sports-Bangladesh-Logo.png"group-title="LPL" group-title="",LPL 2024 T Sports 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"group-title="LPL",LPL 2024 T Sports 
 http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Cricket 🏏", RTA Sports HD 🔗🏏
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8

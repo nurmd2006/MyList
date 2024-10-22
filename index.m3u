@@ -156,6 +156,7 @@ http://opplextv.cyou:8080/live/4545/4545/206054.m3u8
 
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg", Disney Channel HD
 http://119.156.26.155:8000/play/a05u/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="INFORMATION" group-title="",Discovery HD Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 

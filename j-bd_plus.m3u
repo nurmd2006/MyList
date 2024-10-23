@@ -110,3 +110,14 @@
 #EXTINF:-1 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc.png",CGTN Documentary https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8 
 
 #EXTINF:-1 group-title="DATA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg",Colosal TV https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLADESH", Duronto http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png", Sony Aath http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0o0veJjt_XWCjWTMSN7gP6XC2qqsHMp9PR9bwbk0UWXlCcKITRdF4zyQ&s=10", Jalsha Moviees HD http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png", Colours Bangla http://217.20.112.199/colorsbangla/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝙃𝘿 http://217.20.112.199/zeebangla/index.m3u8 

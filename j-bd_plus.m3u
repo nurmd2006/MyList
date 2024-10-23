@@ -20,13 +20,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="JagoBD",Banglavision 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8 
 
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="JagoBD",Bijoy TV 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/360px-BIJOY_TV_Logo_BD.png" group-title="JagoBD",Bijoy TV 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8 
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="JagoBD",Boishakhi 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8 
 
-#EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="JagoBD",BTV World 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png" group-title="JagoBD",BTV World 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8 
 
 
@@ -176,8 +176,10 @@ http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2181.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0o0veJjt_XWCjWTMSN7gP6XC2qqsHMp9PR9bwbk0UWXlCcKITRdF4zyQ&s=10", Jalsha Moviees HD 
 http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/340px-Colors_Bangla.png", Colours Bangla 
-http://217.20.112.199/colorsbangla/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"group-title="LPL",T Sports 
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8jHFz4k/download.png" group-title="Cricket 🏏", RTA Sports HD 🔗🏏 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",𝙕𝙚𝙚 𝘽𝙖𝙣𝙜𝙡𝙖 𝙃𝘿 
-http://217.20.112.199/zeebangla/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8

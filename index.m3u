@@ -186,7 +186,10 @@ https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="INFORMATION",Love nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-
+#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcnkOWN74yr_5z_BUVxmqeAQxdp_VvwlJg9gZTnYLV792jL80TpBgImc&s=10",𝙎𝙋𝘼𝘾𝙀𝙏𝙊𝙊𝙉
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:-1 group-title="𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗼𝗿𝘆" tvg-logo="https://i.postimg.cc/sfZsrWst/20240823_023726.png",𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS", DISH TV|POGO
 http://217.20.112.199/pogo/index.m3u8
 

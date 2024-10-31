@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="JagoBD",Asian TV 
-https://mtlivestream.com/asian/ytlive/index.m3u8
+https://mtlivestream.com/asian/ytlive/index.m3u8 
 
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="JagoBD",ATN Bangla 
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8 
@@ -196,6 +196,10 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7VZqMNk/download-4.png" group-title="Football", VTC 1 HD 🏆
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="India",B4U KADAK
+https://cdn2.pishow.tv/live/160/160_1.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",SANGEET BANGLA 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8 
@@ -234,13 +238,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tQaOAwqEtejKUmxTeyNwLnzXcz7URGADdxiLBCKorRSnjgNEdZG6NKoQgLyGKyu0f-L0oA7m-WBY9azuEDIGBFCRjtlTPgKHxZkdFxNmgs3_mBJnjkLHatoNsQkMCqHOKZPPNJ8HbLcwcG9tmXoIa0RCmOsw7s4p2HTQBvtQNeVkwrhZbrD8a5rLa93AzZaKPXDIS7G_Tnwy9SFh-mD9zwTlsxGYmguTK4oVnfGC0PgGagR45q=w1200-h800-p-k-no-nu",𝘿𝙞𝙨𝙘𝙤𝙫𝙚𝙧𝙮 𝙆𝙞𝙙𝙨
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
-#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://static.wikia.nocookie.net/pbs-kids-fanon-wiki/images/9/94/PBS_Kids_Dash_%282009%29.png/revision/latest?cb=20200208190242",𝙋𝘽𝙎 𝙆𝙄𝘿𝙎
+#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://cdn.kqed.org/wp-content/uploads/sites/19/2017/01/pbs-kids-2-1180x620.jpg",𝙋𝘽𝙎 𝙆𝙄𝘿𝙎
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png?format=1500w",𝙕𝙤𝙤 𝙈𝙤𝙤
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/9/98/Pogo.png/revision/latest?cb=20191112233054",𝙋𝙤𝙜𝙤
+#EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/300/-/Pogo_Hindi.png",𝙋𝙤𝙜𝙤
 https://iptvcable.netlify.app/M3U8/POGO.m3u8
 #EXTINF:-1 group-title="𝗞𝗶𝗱𝘀" tvg-logo="https://i.ibb.co/tpzX0DM/IMG-20240126-095849.png",𝙎𝙋𝘼𝘾𝙀𝙏𝙊𝙊𝙉
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8

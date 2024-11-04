@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/12896.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/12896.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",TNT Sport 1
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2255.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2255.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",TNT Sport 2
-http://bd.ottbd.online:2082/live/rozario859/01327184859/219.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/219.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",TNT Sport 3
-http://bd.ottbd.online:2082/live/rozario859/01327184859/8450.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/8450.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",TNT Sport 4
-http://bd.ottbd.online:2082/live/rozario859/01327184859/24090.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/24090.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",Willow TV
-http://bd.ottbd.online:2082/live/rozario859/01327184859/3.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",Fox 501 HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/8367.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/8367.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",La Liga TV
-http://bd.ottbd.online:2082/live/rozario859/01327184859/23509.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/23509.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",SSC 1
-http://bd.ottbd.online:2082/live/rozario859/01327184859/23508.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/23508.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",Astro Cricket
-http://bd.ottbd.online:2082/live/rozario859/01327184859/376.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/376.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A Sports
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2249.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2249.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2238.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2238.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2239.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/2239.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Sky Sports Cricket
-http://bd.ottbd.online:2082/live/rozario859/01327184859/213.ts
+http://bd.ottbd.online:2082/live/rozario859/01327184859/213.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Sky Sports Premier League
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2216.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Super Sports Cricket
